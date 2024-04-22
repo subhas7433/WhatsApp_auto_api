@@ -1,8 +1,8 @@
 <?php
 $hostname="localhost";
-$database_name="admin_what_gpt";
-$database_user="admin_whats";
-$password="5l9taWh5mm";
+$database_name="database_name";
+$database_user="database_user";
+$password="password";
 
 $conn= new mysqli($hostname,$database_user,$password,$database_name);
 
